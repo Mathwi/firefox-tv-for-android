@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 *.ap_
+output.json
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -62,3 +63,6 @@ Screengrabfile
 .firebase_token*
 .bitbar_token*
 api_key.txt
+
+# Patches
+.patches
